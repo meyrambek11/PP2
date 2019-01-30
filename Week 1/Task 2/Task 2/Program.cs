@@ -48,7 +48,7 @@ namespace Task_2
             Brother.Print(); // to induce function "Print" for new class "Brother";
             Console.WriteLine();
             Student Meyrambek = new Student("Meyrambek", "18BD115315"); //Values for constuction;
-            Meyrambek.Print(); // to induce function "Print" for new class "Brother";
+            Meyrambek.Print(); // to induce function "Print" for new class "Meyrambek"
             
             
         }
