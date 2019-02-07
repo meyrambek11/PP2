@@ -1,7 +1,0 @@
-C:\Users\Мейрамбек\Desktop\PP2\Week 1\Task 4\Task 4\bin\Debug\Task 4.exe.config
-C:\Users\Мейрамбек\Desktop\PP2\Week 1\Task 4\Task 4\bin\Debug\Task 4.exe
-C:\Users\Мейрамбек\Desktop\PP2\Week 1\Task 4\Task 4\bin\Debug\Task 4.pdb
-C:\Users\Мейрамбек\Desktop\PP2\Week 1\Task 4\Task 4\obj\Debug\Task 4.csprojAssemblyReference.cache
-C:\Users\Мейрамбек\Desktop\PP2\Week 1\Task 4\Task 4\obj\Debug\Task 4.csproj.CoreCompileInputs.cache
-C:\Users\Мейрамбек\Desktop\PP2\Week 1\Task 4\Task 4\obj\Debug\Task 4.exe
-C:\Users\Мейрамбек\Desktop\PP2\Week 1\Task 4\Task 4\obj\Debug\Task 4.pdb
