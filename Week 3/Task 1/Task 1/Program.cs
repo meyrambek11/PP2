@@ -85,8 +85,6 @@ namespace Task_1
                 if (Mod == FSIMode.DirectoryInfo)//If FSI(enum) is an Folder;
                 {
                     control.Peek().Draw();//We invite for stack the function "Draw";
-                    Console.BackgroundColor = ConsoleColor.Green;
-                    Console.WriteLine("Open: Enter || Back: Backspace || Deleted: D || Rename: R");
                     Console.BackgroundColor = ConsoleColor.Black;
                     Console.ForegroundColor = ConsoleColor.White;
                 }
