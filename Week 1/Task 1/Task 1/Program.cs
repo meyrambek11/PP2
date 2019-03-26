@@ -44,6 +44,7 @@ namespace Task_1
             {
                 Console.Write(arr[l] + " "); //to Show prime numbers;
             }
+            Console.ReadKey();
         }
     }
 }

@@ -63,7 +63,7 @@ namespace Task_2
     {
         static void Main(string[] args)
         {
-            DirectoryInfo Dr = new DirectoryInfo(@"C:\Users\Мейрамбек\Desktop\Новая папка");
+            DirectoryInfo Dr = new DirectoryInfo(@"C:\Users\Мейрамбек\Desktop\for operation");
             //DirectoryInfo contains a set of members used to create new folders, Here we indicated the way;
             Lawer l = new Lawer// We create new class and indicate folders,files int Index; 
             {
@@ -151,7 +151,7 @@ namespace Task_2
                         b = control.Peek().FileCon.Length;//Sum of files;
                         if (index < a) //If information is an folders;
                         {
-                            Directory.Delete(control.Peek().DirCon[index].FullName);//We delete specified folders and indicate way for adress;
+                            Directory.Delete(control.Peek().DirCon[index].FullName,true);//We delete specified folders and indicate way for adress;
                         }
                         else // If information is an files;
                         {
